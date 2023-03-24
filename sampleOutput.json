@@ -1,0 +1,206 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "CNN",
+      "title": "Pennsylvania man arrested after allegedly trying to bring explosives in his suitcase on a flight - CNN",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8wMy8wMS91cy9leHBsb3NpdmVzLXN1aXRjYXNlLWZsaWdodC1hcnJlc3QvaW5kZXguaHRtbNIBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-02T05:55:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "CNN",
+      "title": "SpaceX launches international crew of astronauts on space station mission - CNN",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8wMy8wMS93b3JsZC9zcGFjZXgtbmFzYS1jcmV3LTYtbGF1bmNoLXRodXJzZGF5LXNjbi9pbmRleC5odG1s0gFaaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyMy8wMy8wMS93b3JsZC9zcGFjZXgtbmFzYS1jcmV3LTYtbGF1bmNoLXRodXJzZGF5LXNjbi9pbmRleC5odG1s?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-02T05:47:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "Billboard",
+      "title": "TWICE Performs 'Moonlight Sunrise' at 2023 Billboard Women In Music – Billboard - Billboard",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmJpbGxib2FyZC5jb20vbXVzaWMvYXdhcmRzL3R3aWNlLWJpbGxib2FyZC13b21lbi1pbi1tdXNpYy0yMDIzLW1vb25saWdodC1zdW5yaXNlLTEyMzUyNzc2MzIv0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-02T05:23:47Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "E! NEWS",
+      "title": "Prince Harry and Meghan Markle \"Have Been Requested to Vacate\" Frogmore Cottage Home - E! NEWS",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LmVvbmxpbmUuY29tL25ld3MvMTM2NjU0MC9wcmluY2UtaGFycnktYW5kLW1lZ2hhbi1tYXJrbGUtaGF2ZS1iZWVuLXJlcXVlc3RlZC10by12YWNhdGUtZnJvZ21vcmUtY290dGFnZS1ob21l0gF7aHR0cHM6Ly93d3cuZW9ubGluZS5jb20vYW1wL25ld3MvMTM2NjU0MC9wcmluY2UtaGFycnktYW5kLW1lZ2hhbi1tYXJrbGUtaGF2ZS1iZWVuLXJlcXVlc3RlZC10by12YWNhdGUtZnJvZ21vcmUtY290dGFnZS1ob21l?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-02T04:49:34Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "CBS Sports",
+      "title": "It's early, but this Kevin Durant-led Suns team looks like it's about to get late for others' title hopes - CBS Sports",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL25iYS9uZXdzL2l0cy1lYXJseS1idXQtdGhpcy1rZXZpbi1kdXJhbnQtbGVkLXN1bnMtdGVhbS1sb29rcy1saWtlLWl0cy1hYm91dC10by1nZXQtbGF0ZS1mb3Itb3RoZXJzLXRpdGxlLWhvcGVzL9IBjQFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL25iYS9uZXdzL2l0cy1lYXJseS1idXQtdGhpcy1rZXZpbi1kdXJhbnQtbGVkLXN1bnMtdGVhbS1sb29rcy1saWtlLWl0cy1hYm91dC10by1nZXQtbGF0ZS1mb3Itb3RoZXJzLXRpdGxlLWhvcGVzL2FtcC8?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-02T04:02:55Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "The Washington Post",
+      "title": "Biden set for first veto on Senate bill opposing climate-friendly investing - The Washington Post",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9jbGltYXRlLWVudmlyb25tZW50LzIwMjMvMDMvMDEvYmlkZW4tdmV0by1jbGltYXRlLWludmVzdGluZy1iaWxsL9IBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-02T03:51:01Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "Reuters",
+      "title": "North Korea's Kim demands more farmland to boost food production - Reuters",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2FzaWEtcGFjaWZpYy9ub3J0aC1rb3JlYXMta2ltLWRlbWFuZHMtbW9yZS1mYXJtbGFuZC1ib29zdC1mb29kLXByb2R1Y3Rpb24tMjAyMy0wMy0wMS_SAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-02T03:06:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "The Washington Post",
+      "title": "Brian Flores can pursue discrimination claims in court, judge rules - The Washington Post",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9zcG9ydHMvMjAyMy8wMy8wMS9icmlhbi1mbG9yZXMtbmZsLWRpc2NyaW1pbmF0aW9uLXN1aXQv0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-02T02:49:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "KFOX El Paso",
+      "title": "Jupiter, Venus visible in Borderland night sky - KFOX El Paso",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8va2ZveHR2LmNvbS9uZXdzL2xvY2FsL2p1cGl0ZXItdmVudXMtdmlzaWJsZS1pbi1ib3JkZXJsYW5kLW5pZ2h0LXNreS1hc3Ryb25vbXktcGxhbmV0cy1jb25qdW5jdGlvbi1tYXJjaC0xLTIwMjPSAXpodHRwczovL2tmb3h0di5jb20vYW1wL25ld3MvbG9jYWwvanVwaXRlci12ZW51cy12aXNpYmxlLWluLWJvcmRlcmxhbmQtbmlnaHQtc2t5LWFzdHJvbm9teS1wbGFuZXRzLWNvbmp1bmN0aW9uLW1hcmNoLTEtMjAyMw?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-02T02:49:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "The Washington Post",
+      "title": "Bola Ahmed Tinubu: Who is Nigeria's newly elected president? - The Washington Post",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS93b3JsZC8yMDIzLzAzLzAxL2JvbGEtYWhtZWQtdGludWJ1LW5pZ2VyaWEtcHJlc2lkZW50LWVsZWN0aW9uLXdoby1pcy_SAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-02T02:45:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "TechCrunch",
+      "title": "Everything Elon Musk and execs shared (and skipped) at Tesla Investor Day - TechCrunch",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vdGVjaGNydW5jaC5jb20vMjAyMy8wMy8wMS9ldmVyeXRoaW5nLWVsb24tbXVzay1hbmQtZXhlY3Mtc2hhcmVkLWFuZC1za2lwcGVkLWF0LXRlc2xhLWludmVzdG9yLWRheS_SAW5odHRwczovL3RlY2hjcnVuY2guY29tLzIwMjMvMDMvMDEvZXZlcnl0aGluZy1lbG9uLW11c2stYW5kLWV4ZWNzLXNoYXJlZC1hbmQtc2tpcHBlZC1hdC10ZXNsYS1pbnZlc3Rvci1kYXkvYW1wLw?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-02T02:37:28Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "CNN",
+      "title": "Putin ally Lukashenko meets Chinese leader Xi Jinping as US warns China against shipping arms to Russia - CNN",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8wMy8wMS9jaGluYS9iZWxhcnVzLWx1a2FzaGVua28tY2hpbmEteGktamlucGluZy1tZWV0aW5nLWJlaWppbmctaW50bC1obmsvaW5kZXguaHRtbNIBcGh0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjMvMDMvMDEvY2hpbmEvYmVsYXJ1cy1sdWthc2hlbmtvLWNoaW5hLXhpLWppbnBpbmctbWVldGluZy1iZWlqaW5nLWludGwtaG5rL2luZGV4Lmh0bWw?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-02T02:33:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "WRAL News",
+      "title": "'Much more severe kind of food poisoning': local health experts, restaurant owners concerned about drug-resistant shigella - WRAL News",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMilQFodHRwczovL3d3dy53cmFsLmNvbS9tdWNoLW1vcmUtc2V2ZXJlLWtpbmQtb2YtZm9vZC1wb2lzb25pbmctbG9jYWwtaGVhbHRoLWV4cGVydHMtcmVzdGF1cmFudC1vd25lcnMtY29uY2VybmVkLWFib3V0LWRydWctcmVzaXN0YW50LXNoaWdlbGxhLzIwNzQzMjAxL9IBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-02T02:15:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "New York Post ",
+      "title": "Chicago police officer shot and killed while responding to domestic call: officials - New York Post ",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vbnlwb3N0LmNvbS8yMDIzLzAzLzAxL2ZlbWFsZS1jaGljYWdvLXBvbGljZS1vZmZpY2VyLXNob3QtYW5kLWtpbGxlZC1vbi1kb21lc3RpYy1jYWxsLW9mZmljaWFscy_SAWtodHRwczovL255cG9zdC5jb20vMjAyMy8wMy8wMS9mZW1hbGUtY2hpY2Fnby1wb2xpY2Utb2ZmaWNlci1zaG90LWFuZC1raWxsZWQtb24tZG9tZXN0aWMtY2FsbC1vZmZpY2lhbHMvYW1wLw?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-02T00:45:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "BBC",
+      "title": "Jalen Carter: NFL hopeful accused of racing in deadly crash - BBC",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC11cy1jYW5hZGEtNjQ4MDU1MznSATVodHRwczovL3d3dy5iYmMuY29tL25ld3Mvd29ybGQtdXMtY2FuYWRhLTY0ODA1NTM5LmFtcA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-02T00:20:28Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "Inside Edition",
+      "title": "Why Was Hoda Kotb Missing From 'TODAY' Show? - Inside Edition",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CCAiC0wydkVlSlZ5MWN3mAEB?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-02T00:13:14Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "Business Insider",
+      "title": "Marc Benioff: CEOs Asking If They Need to 'Unleash' Their Inner Elon - Business Insider",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vbWFyYy1iZW5pb2ZmLWVsb24tbXVzay1jZW9zLXVubGVhc2gtdGhlaXItaW5uZXItZWxvbi0yMDIzLTPSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-02T00:03:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "USA TODAY",
+      "title": "Train crash in Greece: 43 dead, stationmaster arrested. Live updates. - USA TODAY",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL3dvcmxkLzIwMjMvMDMvMDEvdHJhaW4tY3Jhc2gtZGVyYWlsbWVudC1ncmVlY2UvMTEzNzI2OTUwMDIv0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-02T00:00:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "The Associated Press - en Español",
+      "title": "Trump set to headline diminished gathering of conservatives - The Associated Press - en Español",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3RydW1wLWJvbHNvbmFyby1wZW5jZS1jcGFjLWRlc2FudGlzLXlvdW5na2luLWUyMzc3NjRhZDYwZmJlMDdlMGZlNTEyZjQ4YzNjNjE20gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-01T23:38:19Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "The Hill",
+      "title": "Biden says he’s not confident Supreme Court will clear student loan forgiveness plan - The Hill",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiiAFodHRwczovL3RoZWhpbGwuY29tL2hvbWVuZXdzL2FkbWluaXN0cmF0aW9uLzM4ODAxNDktYmlkZW4tc2F5cy1oZXMtbm90LWNvbmZpZGVudC1zdXByZW1lLWNvdXJ0LXdpbGwtY2xlYXItc3R1ZGVudC1sb2FuLWZvcmdpdmVuZXNzLXBsYW4v0gGMAWh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3MvYWRtaW5pc3RyYXRpb24vMzg4MDE0OS1iaWRlbi1zYXlzLWhlcy1ub3QtY29uZmlkZW50LXN1cHJlbWUtY291cnQtd2lsbC1jbGVhci1zdHVkZW50LWxvYW4tZm9yZ2l2ZW5lc3MtcGxhbi9hbXAv?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-01T23:29:00Z",
+      "content": null
+    }
+  ]
+}
